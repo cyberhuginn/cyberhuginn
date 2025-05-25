@@ -32,6 +32,7 @@ I'm a passionate full-stack developer with over **6 years of experience** in bui
 
 - 🐍 **Backend Development**  
   - Expert in **Python** and **Django**
+  - Building high-performance APIs using **Go** and **Gin**
   - Experienced with **REST APIs**, **WebSockets**, and **Redis**
   - Built scalable **monitoring systems**, **admin dashboards**, and **Telegram bots**
 
