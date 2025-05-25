@@ -48,7 +48,7 @@ I'm a passionate full-stack developer with over **6 years of experience** in bui
 
 ## 🏢 Co-founder at Fardad Noavar Dornika
 
-As a co-founder of **Fardad Noavar Dornika**, I’ve led and contributed to projects across multiple industries, combining engineering with real-world applications.
+As a co-founder of [**Fardad Noavar Dornika**](https://fardad.tech), I’ve led and contributed to projects across multiple industries, combining engineering with real-world applications.
 
 ---
 
