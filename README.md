@@ -44,6 +44,10 @@ Platforms:     Linux, Nginx, CI/CD, Telegram API
 	•	Email: freecyberhawk@gmail.com
 	•	Website / Portfolio: freecyberhawk.com
 
+---
+
  > “Code is not just what I write, it’s how I think, solve, and create.”
+
+---
 
 Thanks for stopping by!
