@@ -1,7 +1,7 @@
 # 👋 Hi, I'm @freecyberhawk
 
 Welcome to my GitHub profile!  
-I'm a passionate full-stack developer with a strong background in **Python**, **Django**, and **modern JavaScript frameworks**. I love building clean, scalable, and efficient systems that solve real-world problems.
+I'm a passionate full-stack developer with over **6 years of experience** in building scalable, production-grade applications. My core expertise lies in **Python**, **Django**, and **modern JavaScript frameworks**. I love crafting clean, efficient systems that solve real-world problems across industries.
 
 <!-- Programming Languages -->
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
