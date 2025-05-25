@@ -3,6 +3,9 @@
 Welcome to my GitHub profile!  
 I'm a passionate full-stack developer with a strong background in **Python**, **Django**, and **modern JavaScript frameworks**. I love building clean, scalable, and efficient systems that solve real-world problems.
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freecyberhawk&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=freecyberhawk&theme=dark&hide_border=true)
+
 ---
 
 ## 🚀 What I Do
