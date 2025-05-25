@@ -1,7 +1,7 @@
 # 👋 Hi, I'm FreeCyberHawk
 
 Welcome to my GitHub profile!  
-I'm a passionate full-stack developer with over **6 years of experience** in building scalable, production-grade applications. My core expertise lies in **Python**, **Django**, and **modern JavaScript frameworks**. I love crafting clean, efficient systems that solve real-world problems across industries.
+I'm a passionate full-stack developer with over **6 years of experience** in building scalable, production-grade applications. My core expertise lies in **Python**, **Django**, **Go**, and **modern JavaScript frameworks**. I love crafting clean, efficient systems that solve real-world problems across industries.
 
 <!-- Programming Languages -->
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -9,12 +9,12 @@ I'm a passionate full-stack developer with over **6 years of experience** in bui
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-<!-- Backend Framework -->
+<!-- Backend Frameworks -->
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Django REST](https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white)
 ![Gin](https://img.shields.io/badge/Gin-00B386?style=for-the-badge&logo=go&logoColor=white)
 
-<!-- Frontend Framework -->
+<!-- Frontend Frameworks -->
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Telegram Bot](https://img.shields.io/badge/Telegram%20Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
@@ -37,28 +37,28 @@ I'm a passionate full-stack developer with over **6 years of experience** in bui
   - Built scalable **monitoring systems**, **admin dashboards**, and **Telegram bots**
 
 - ⚙️ **Industrial & Enterprise Solutions**  
-  - Delivered projects for **industrial automation** and **office workflow optimization**
-  - Integrated hardware/software systems with modern web backends
+  - Delivered projects for **industrial automation**, **data pipelines**, and **workflow optimization**
+  - Integrated hardware/software systems with modern, scalable backends
 
 - 🌐 **Frontend & Mobile Development**  
-  - Building modern UIs with **Next.js** and **TypeScript**
+  - Creating modern UIs with **Next.js**, **React**, and **TypeScript**
   - Developing cross-platform mobile apps with **React Native**
 
 ---
 
-## 🏢 Co-founder at Fardad Noavar Dornika
+## 🏢 Co-founder at Fardad Noavar Dornika Co.
 
-As a co-founder of [**Fardad Noavar Dornika**](https://fardad.tech), I’ve led and contributed to projects across multiple industries, combining engineering with real-world applications.
+As a co-founder of [**Fardad Noavar Dornika Co.**](https://fardad.tech), I’ve led and contributed to projects across multiple industries — from energy analytics to smart automation — combining engineering with real-world impact.
 
 ---
 
 ## 🛠️ Tech Stack
 
 ```plaintext
-Languages:     Python, TypeScript, JavaScript
-Frameworks:    Django, Next.js, React Native
+Languages:     Python, Go, TypeScript, JavaScript
+Frameworks:    Django, Gin, Next.js, React Native
 Tools:         Redis, WebSockets, Docker, Git, PostgreSQL
-Platforms:     Linux, Nginx, CI/CD, Telegram API
+Platforms:     Linux, Nginx, CI/CD, Telegram API, Cloud VPS
 ```
 
 ---
