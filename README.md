@@ -1,4 +1,4 @@
-# 👋 Hi, I'm @freecyberhawk
+# 👋 Hi, I'm FreeCyberHawk
 
 Welcome to my GitHub profile!  
 I'm a passionate full-stack developer with over **6 years of experience** in building scalable, production-grade applications. My core expertise lies in **Python**, **Django**, and **modern JavaScript frameworks**. I love crafting clean, efficient systems that solve real-world problems across industries.
