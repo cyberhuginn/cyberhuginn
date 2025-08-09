@@ -1,4 +1,4 @@
-# 👋 Hi, I'm FreeCyberHawk
+# 👋 Hi, I'm CyberHuginn
 
 Welcome to my GitHub profile!  
 I'm a passionate full-stack developer with over **6 years of experience** in building scalable, production-grade applications. My core expertise lies in **Python**, **Django**, **Go**, and **modern JavaScript frameworks**. I love crafting clean, efficient systems that solve real-world problems across industries.
@@ -64,9 +64,9 @@ Platforms:     Linux, Nginx, CI/CD, Telegram API, Cloud VPS
 ---
 
 ## 📫 Let’s Connect
-	•	GitHub: @freecyberhawk
-	•	Email: freecyberhawk@gmail.com
-	•	Website / Portfolio: freecyberhawk.com
+	•	GitHub: @cyberhuginn
+	•	Email: cyberhuginn@gmail.com
+	•	Website / Portfolio: cyberhuginn.com
 
 ---
 
