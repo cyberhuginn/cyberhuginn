@@ -1,7 +1,7 @@
 # 👋 Hi, I'm CyberHuginn
 
 Welcome to my GitHub profile!  
-I'm a passionate full-stack developer with over **6 years of experience** in building scalable, production-grade applications. My core expertise lies in **Python**, **Django**, **Go**, and **modern JavaScript frameworks**. I love crafting clean, efficient systems that solve real-world problems across industries.
+I'm a passionate full-stack developer with over **7 years of experience** in building scalable, production-grade applications. My core expertise lies in **Python**, **Django**, **Go**, and **modern JavaScript frameworks**. I love crafting clean, efficient systems that solve real-world problems across industries.
 
 <!-- Programming Languages -->
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -48,7 +48,7 @@ I'm a passionate full-stack developer with over **6 years of experience** in bui
 
 ## 🏢 Co-founder at Fardad Noavar Dornika Co.
 
-As a co-founder of [**Fardad Noavar Dornika Co.**](https://fardad.tech), I’ve led and contributed to projects across multiple industries — from energy analytics to smart automation — combining engineering with real-world impact.
+As a co-founder of [**Fardad Noavar Dornika Co.**](https://fardadnoavar.ir), I’ve led and contributed to projects across multiple industries — from energy analytics to smart automation — combining engineering with real-world impact.
 
 ---
 
@@ -66,7 +66,7 @@ Platforms:     Linux, Nginx, CI/CD, Telegram API, Cloud VPS
 ## 📫 Let’s Connect
 	•	GitHub: @cyberhuginn
 	•	Email: cyberhuginn@gmail.com
-	•	Website / Portfolio: cyberhuginn.com
+	•	Website / Portfolio: [**cyberhuginn.com**](https://cyberhuginn.com)
 
 ---
 
