@@ -3,6 +3,9 @@
 Welcome to my GitHub profile!  
 I'm a passionate full-stack developer with over **7 years of experience** in building scalable, production-grade applications. My core expertise lies in **Python**, **Django**, **Go**, and **modern JavaScript frameworks**. I love crafting clean, efficient systems that solve real-world problems across industries.
 
+🌐 Visit my website: [cyberhuginn.com](https://cyberhuginn.com)  
+📝 Check out my [Resume](./portfolio/resume.pdf)
+
 <!-- Programming Languages -->
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -64,9 +67,10 @@ Platforms:     Linux, Nginx, CI/CD, Telegram API, Cloud VPS
 ---
 
 ## 📫 Let’s Connect
-	•	GitHub: @cyberhuginn
-	•	Email: cyberhuginn@gmail.com
-	•	Website / Portfolio: [**cyberhuginn.com**](https://cyberhuginn.com)
+- 🌐 Website: [cyberhuginn.com](https://cyberhuginn.com)
+- 📝 Resume: [English CV (PDF)](./portfolio/resume.pdf)
+- 🐙 GitHub: [@cyberhuginn](https://github.com/cyberhuginn)
+- 📧 Email: cyberhuginn@gmail.com
 
 ---
 
