@@ -6,6 +6,8 @@ I'm a passionate full-stack developer with over **7 years of experience** in bui
 🌐 Visit my website: [cyberhuginn.com](https://cyberhuginn.com)  
 📝 Check out my [Resume](./portfolio/resume.pdf)
 
+[![Open Source Helpers](https://www.codetriage.com/cyberhuginn/cyberhuginn/badges/users.svg)]
+
 <!-- Programming Languages -->
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
