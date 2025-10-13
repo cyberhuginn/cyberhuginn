@@ -1,3 +1,5 @@
+### English 🇬🇧
+
 # 👋 Welcome to my GitHub profile!
 
 Hey, I'm Saleh!
@@ -62,7 +64,8 @@ Thanks for stopping by!
 
 ---
 
-## Persian
+### فارسی 🇮🇷
+
 # 👋 خوش آمدید به پروفایل گیت‌هاب من!
 
 سلام، من صالح هستم!
