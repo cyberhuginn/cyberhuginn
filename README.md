@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![Django REST](https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white) ![Gin](https://img.shields.io/badge/Gin-00B386?style=for-the-badge&logo=go&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
 ### English 🇬🇧
 
 # 👋 Welcome to my GitHub profile!
@@ -10,23 +14,6 @@ Visit my website: [cyberhuginn.com](https://cyberhuginn.com)
 Check out my [Resume](./portfolio/resume.pdf)
 
 
-<!-- Programming Languages -->
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-
-<!-- Backend Frameworks -->
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Django REST](https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white)
-![Gin](https://img.shields.io/badge/Gin-00B386?style=for-the-badge&logo=go&logoColor=white)
-
-<!-- Tools & Others -->
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
----
-
 ## What I Do
 
 - **Backend Development**  
@@ -35,7 +22,6 @@ Check out my [Resume](./portfolio/resume.pdf)
   - Experienced with **REST APIs**, **WebSockets**, and **Redis**
   - Built scalable **monitoring systems**, **admin dashboards**, and **Telegram bots**
 
----
 
 ## Tech Stack
 
@@ -46,7 +32,6 @@ Tools:         Redis, WebSockets, Docker, Git, PostgreSQL
 Platforms:     Linux, Nginx, CI/CD, Telegram API, Cloud VPS
 ```
 
----
 
 ## Let’s Connect
 - Website: [cyberhuginn.com](https://cyberhuginn.com)
@@ -54,11 +39,9 @@ Platforms:     Linux, Nginx, CI/CD, Telegram API, Cloud VPS
 - GitHub: [@cyberhuginn](https://github.com/cyberhuginn)
 - Email: cyberhuginn@gmail.com
 
----
 
  > “Code is not just what I write, it’s how I think, solve, and create.”
 
----
 
 Thanks for stopping by!
 
@@ -76,23 +59,6 @@ Thanks for stopping by!
 رزومه [دانلود](./portfolio/resume.pdf)
 
 
-<!-- Programming Languages -->
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-
-<!-- Backend Frameworks -->
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Django REST](https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white)
-![Gin](https://img.shields.io/badge/Gin-00B386?style=for-the-badge&logo=go&logoColor=white)
-
-<!-- Tools & Others -->
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
----
-
 ## حوزه فعالیت من
 
 - **توسعه بک‌اند**  
@@ -101,7 +67,6 @@ Thanks for stopping by!
   - تجربه کار با REST APIs، WebSocket و Redis
   - ساخت سیستم‌های پایش، داشبوردهای مدیریتی و بات‌های تلگرام
 
----
 
 ## تکنولوژی‌ها
 
@@ -112,7 +77,6 @@ Thanks for stopping by!
 پلتفرم‌ها:     Linux, Nginx, CI/CD, Telegram API, Cloud VPS
 ```
 
----
 
 ## راه‌های ارتباطی
 - وب سایت: [cyberhuginn.com](https://cyberhuginn.com)
@@ -120,10 +84,8 @@ Thanks for stopping by!
 - گیت هاب: [@cyberhuginn](https://github.com/cyberhuginn)
 - ایمیل: cyberhuginn@gmail.com
 
----
 
  > “کد زدن فقط نوشتن نیست؛ طرز فکر، حل مسئله و خلق راه‌حل است.”
 
----
 
 از اینکه سر زدی ممنونم!
