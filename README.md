@@ -1,17 +1,16 @@
-# 👋 Hi, I'm Saleh
+# 👋 Welcome to my GitHub profile!
 
-Hey!
+Hey, I'm Saleh!
 I build production-oriented backend systems and occasionally jump into the frontend when shaping products end-to-end.
 My main tools are Python/Django, Go, and modern JS frameworks. I enjoy designing systems that are not just functional — but reliable, clean, and pleasant to maintain.
 
-🌐 Visit my website: [cyberhuginn.com](https://cyberhuginn.com)  
-📝 Check out my [Resume](./portfolio/resume.pdf)
+Visit my website: [cyberhuginn.com](https://cyberhuginn.com)  
+Check out my [Resume](./portfolio/resume.pdf)
 
 
 <!-- Programming Languages -->
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 <!-- Backend Frameworks -->
@@ -19,45 +18,24 @@ My main tools are Python/Django, Go, and modern JS frameworks. I enjoy designing
 ![Django REST](https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white)
 ![Gin](https://img.shields.io/badge/Gin-00B386?style=for-the-badge&logo=go&logoColor=white)
 
-<!-- Frontend Frameworks -->
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Telegram Bot](https://img.shields.io/badge/Telegram%20Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-
 <!-- Tools & Others -->
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-35495E?style=for-the-badge&logo=websocket&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
-## 🚀 What I Do
+## What I Do
 
-- 🐍 **Backend Development**  
+- **Backend Development**  
   - Expert in **Python** and **Django**
   - Building high-performance APIs using **Go** and **Gin**
   - Experienced with **REST APIs**, **WebSockets**, and **Redis**
   - Built scalable **monitoring systems**, **admin dashboards**, and **Telegram bots**
 
-- ⚙️ **Industrial & Enterprise Solutions**  
-  - Delivered projects for **industrial automation**, **data pipelines**, and **workflow optimization**
-  - Integrated hardware/software systems with modern, scalable backends
-
-- 🌐 **Frontend & Mobile Development**  
-  - Creating modern UIs with **Next.js**, **React**, and **TypeScript**
-  - Developing cross-platform mobile apps with **React Native**
-
 ---
 
-## 🏢 Co-founder at Fardad Noavar Dornika Co.
-
-As a co-founder of [**Fardad Noavar Dornika Co.**](https://fardadnoavar.ir), I’ve led and contributed to projects across multiple industries — from energy analytics to smart automation — combining engineering with real-world impact.
-
----
-
-## 🛠️ Tech Stack
+## Tech Stack
 
 ```plaintext
 Languages:     Python, Go, TypeScript, JavaScript
@@ -68,11 +46,11 @@ Platforms:     Linux, Nginx, CI/CD, Telegram API, Cloud VPS
 
 ---
 
-## 📫 Let’s Connect
-- 🌐 Website: [cyberhuginn.com](https://cyberhuginn.com)
-- 📝 Resume: [English CV (PDF)](./portfolio/resume.pdf)
-- 🐙 GitHub: [@cyberhuginn](https://github.com/cyberhuginn)
-- 📧 Email: cyberhuginn@gmail.com
+## Let’s Connect
+- Website: [cyberhuginn.com](https://cyberhuginn.com)
+- Resume: [English CV (PDF)](./portfolio/resume.pdf)
+- GitHub: [@cyberhuginn](https://github.com/cyberhuginn)
+- Email: cyberhuginn@gmail.com
 
 ---
 
@@ -81,3 +59,68 @@ Platforms:     Linux, Nginx, CI/CD, Telegram API, Cloud VPS
 ---
 
 Thanks for stopping by!
+
+---
+
+## Persian
+# 👋 خوش آمدید به پروفایل گیت‌هاب من!
+
+سلام، من صالح هستم!
+من بیشتر روی بک‌اند و طراحی سیستم‌های پایدار کار می‌کنم، ولی در مسیر ساخت محصول، گاهی روی فرانت‌اند هم فعالیت می‌کنم تا پروژه‌ها از ابتدا تا انتها به شکل کامل ساخته شوند.
+ابزارهای اصلی من Python/Django، Go و فریم‌ورک‌های مدرن JavaScript هستند و علاقه‌مندم سیستم‌هایی بسازم که نه تنها کاربردی باشند، بلکه قابل اعتماد، تمیز و آسان برای نگهداری باشند.
+
+وب سایت شخصی: [cyberhuginn.com](https://cyberhuginn.com)  
+[رزومه من](./portfolio/resume.pdf)
+
+
+<!-- Programming Languages -->
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+<!-- Backend Frameworks -->
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Django REST](https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-00B386?style=for-the-badge&logo=go&logoColor=white)
+
+<!-- Tools & Others -->
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+## حوزه فعالیت من
+
+- **توسعه بک‌اند**  
+  - متخصص در **Python** و **Django**
+  - ساخت APIهای با عملکرد بالا با **Go** و **Gin**
+  - تجربه کار با REST APIs، WebSocket و Redis
+  - ساخت سیستم‌های پایش، داشبوردهای مدیریتی و بات‌های تلگرام
+
+---
+
+## تکنولوژی‌ها
+
+```plaintext
+زبان‌ها:     Python, Go, TypeScript, JavaScript
+فریمورک ها:    Django, Gin, Next.js, React Native
+ابزارها:         Redis, WebSockets, Docker, Git, PostgreSQL
+پلتفرم‌ها:     Linux, Nginx, CI/CD, Telegram API, Cloud VPS
+```
+
+---
+
+## راه‌های ارتباطی
+- وب سایت: [cyberhuginn.com](https://cyberhuginn.com)
+- رزومه: [English CV (PDF)](./portfolio/resume.pdf)
+- گیت هاب: [@cyberhuginn](https://github.com/cyberhuginn)
+- ایمیل: cyberhuginn@gmail.com
+
+---
+
+ > “کد زدن فقط نوشتن نیست؛ طرز فکر، حل مسئله و خلق راه‌حل است.”
+
+---
+
+از اینکه سر زدی ممنونم!
