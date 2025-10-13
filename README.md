@@ -7,7 +7,7 @@ I build production-oriented backend systems and occasionally jump into the front
 My main tools are Python/Django, Go, and modern JS frameworks. I enjoy designing systems that are not just functional — but reliable, clean, and pleasant to maintain.
 
 Visit my website: [cyberhuginn.com](https://cyberhuginn.com)  
-Check out my Resume: [download](./portfolio/resume.pdf)
+Check out my resume: [download](./portfolio/resume.pdf)
 
 
 ## What I Do
