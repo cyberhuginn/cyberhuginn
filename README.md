@@ -1,7 +1,8 @@
-# 👋 Hi, I'm CyberHuginn
+# 👋 Hi, I'm Saleh
 
-Welcome to my GitHub profile!  
-I'm a passionate full-stack developer with over **7 years of experience** in building scalable, production-grade applications. My core expertise lies in **Python**, **Django**, **Go**, and **modern JavaScript frameworks**. I love crafting clean, efficient systems that solve real-world problems across industries.
+Hey!
+I build production-oriented backend systems and occasionally jump into the frontend when shaping products end-to-end.
+My main tools are Python/Django, Go, and modern JS frameworks. I enjoy designing systems that are not just functional — but reliable, clean, and pleasant to maintain.
 
 🌐 Visit my website: [cyberhuginn.com](https://cyberhuginn.com)  
 📝 Check out my [Resume](./portfolio/resume.pdf)
