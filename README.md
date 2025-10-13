@@ -6,9 +6,6 @@ Hey, I'm Saleh!
 I build production-oriented backend systems and occasionally jump into the frontend when shaping products end-to-end.
 My main tools are Python/Django, Go, and modern JS frameworks. I enjoy designing systems that are not just functional — but reliable, clean, and pleasant to maintain.
 
-Visit my website: [cyberhuginn.com](https://cyberhuginn.com)  
-Check out my resume: [download](./portfolio/resume.pdf)
-
 
 ## What I Do
 
@@ -50,9 +47,7 @@ Thanks for stopping by!
 سلام، من صالح هستم!
 من بیشتر روی بک‌اند و طراحی سیستم‌های پایدار کار می‌کنم، ولی در مسیر ساخت محصول، گاهی روی فرانت‌اند هم فعالیت می‌کنم تا پروژه‌ها از ابتدا تا انتها به شکل کامل ساخته شوند.
 ابزارهای اصلی من Python/Django، Go و فریم‌ورک‌های مدرن JavaScript هستند و علاقه‌مندم سیستم‌هایی بسازم که نه تنها کاربردی باشند، بلکه قابل اعتماد، تمیز و آسان برای نگهداری باشند.
-
-وب سایت شخصی: [cyberhuginn.com](https://cyberhuginn.com)  
-رزومه [دانلود](./portfolio/resume.pdf)
+)
 
 
 ## حوزه فعالیت من
