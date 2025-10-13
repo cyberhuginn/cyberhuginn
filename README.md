@@ -73,7 +73,7 @@ Thanks for stopping by!
 ابزارهای اصلی من Python/Django، Go و فریم‌ورک‌های مدرن JavaScript هستند و علاقه‌مندم سیستم‌هایی بسازم که نه تنها کاربردی باشند، بلکه قابل اعتماد، تمیز و آسان برای نگهداری باشند.
 
 وب سایت شخصی: [cyberhuginn.com](https://cyberhuginn.com)  
-[رزومه من](./portfolio/resume.pdf)
+رزومه [دانلود](./portfolio/resume.pdf)
 
 
 <!-- Programming Languages -->
