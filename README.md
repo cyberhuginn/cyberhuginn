@@ -1,82 +1,91 @@
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![Django REST](https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white) ![Gin](https://img.shields.io/badge/Gin-00B386?style=for-the-badge&logo=go&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![Telegram Bot](https://img.shields.io/badge/Telegram%20Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![ClickHouse](https://img.shields.io/badge/ClickHouse-005358?style=for-the-badge&logo=clickhouse&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+<div align="center">
 
-# 👋 Welcome to my GitHub profile!
+# CyberHuginn
 
-Hey, I'm Saleh!
-I build production-oriented backend systems and occasionally jump into the frontend when shaping products end-to-end.
-My main tools are Python/Django, Go, and modern JS frameworks. I enjoy designing systems that are not just functional — but reliable, clean, and pleasant to maintain.
+### Backend Engineer • Distributed Systems • Open Source
 
+Building reliable backend systems, developer tools, and production-grade infrastructure.
 
-## What I Do
+[Website](https://cyberhuginn.com) •
+[Resume](./portfolio/resume.pdf) •
+[GitHub](https://github.com/cyberhuginn) •
+[Email](mailto:cyberhuginn@gmail.com)
 
-- **Backend Development**  
-  - Expert in **Python** and **Django**
-  - Building high-performance APIs using **Go** and **Gin**
-  - Experienced with **REST APIs**, **WebSockets**, and **Redis**
-  - Built scalable **monitoring systems**, **admin dashboards**, and **Telegram bots**
-
-
-## Tech Stack
-
-```plaintext
-Languages:     Python, Go, TypeScript, JavaScript
-Frameworks:    Django, Gin, Next.js, React Native
-Tools:         Redis, WebSockets, Docker, Git, PostgreSQL
-Platforms:     Linux, Nginx, CI/CD, Telegram API, Cloud VPS
-```
-
-
-## Let’s Connect
-- Website: [cyberhuginn.com](https://cyberhuginn.com)
-- Resume: [English CV (PDF)](./portfolio/resume.pdf)
-- GitHub: [@cyberhuginn](https://github.com/cyberhuginn)
-- Email: cyberhuginn@gmail.com
-
-
- > “Code is not just what I write, it’s how I think, solve, and create.”
-
-
-Thanks for stopping by!
+</div>
 
 ---
 
-### فارسی 🇮🇷
+## Tech Stack
 
-# 👋 خوش آمدید به پروفایل گیت‌هاب من!
+<p align="left">
 
-سلام، من صالح هستم!
-من بیشتر روی بک‌اند و طراحی سیستم‌های پایدار کار می‌کنم، ولی در مسیر ساخت محصول، گاهی روی فرانت‌اند هم فعالیت می‌کنم تا پروژه‌ها از ابتدا تا انتها به شکل کامل ساخته شوند.
-ابزارهای اصلی من Python/Django، Go و فریم‌ورک‌های مدرن JavaScript هستند و علاقه‌مندم سیستم‌هایی بسازم که نه تنها کاربردی باشند، بلکه قابل اعتماد، تمیز و آسان برای نگهداری باشند.
-)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Django%20REST](https://img.shields.io/badge/Django%20REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-00B386?style=for-the-badge&logo=go&logoColor=white)
 
-## حوزه فعالیت من
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge)
 
-- **توسعه بک‌اند**  
-  - متخصص در **Python** و **Django**
-  - ساخت APIهای با عملکرد بالا با **Go** و **Gin**
-  - تجربه کار با REST APIs، WebSocket و Redis
-  - ساخت سیستم‌های پایش، داشبوردهای مدیریتی و بات‌های تلگرام
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
+</p>
 
-## تکنولوژی‌ها
+---
 
-```plaintext
-زبان‌ها:     Python, Go, TypeScript, JavaScript
-فریمورک ها:    Django, Gin, Next.js, React Native
-ابزارها:         Redis, WebSockets, Docker, Git, PostgreSQL
-پلتفرم‌ها:     Linux, Nginx, CI/CD, Telegram API, Cloud VPS
-```
+## About
 
+I'm a backend engineer focused on designing software that stays reliable under real-world conditions.
 
-## راه‌های ارتباطی
-- وب سایت: [cyberhuginn.com](https://cyberhuginn.com)
-- رزومه: [English CV (PDF)](./portfolio/resume.pdf)
-- گیت هاب: [@cyberhuginn](https://github.com/cyberhuginn)
-- ایمیل: cyberhuginn@gmail.com
+My work revolves around building scalable APIs, distributed services, monitoring platforms, automation tools, and developer-focused products. I enjoy solving infrastructure challenges, optimizing system architecture, and writing software that remains maintainable as it grows.
 
+I believe good software is simple, observable, and built to last.
 
- > “کد زدن فقط نوشتن نیست؛ طرز فکر، حل مسئله و خلق راه‌حل است.”
+---
 
+## Areas of Expertise
 
-از اینکه سر زدی ممنونم!
+- Backend Architecture
+- Distributed Systems
+- REST APIs & WebSockets
+- High Performance Services with Go
+- Django & Django REST Framework
+- System Monitoring
+- Telegram Bot Development
+- Redis & Background Workers
+- Docker & Kubernetes
+- PostgreSQL & ClickHouse
+- Linux Servers & Nginx
+- CI/CD & Deployment
+
+---
+
+## Current Focus
+
+- Building open-source tools
+- Backend infrastructure
+- Monitoring systems
+- Secure and scalable architectures
+- Performance optimization
+- Developer experience
+
+---
+
+## Philosophy
+
+> Build software that survives production—not just demos.
+
+---
+
+<div align="center">
+
+**Always building. Always learning. Always shipping.**
+
+</div>
