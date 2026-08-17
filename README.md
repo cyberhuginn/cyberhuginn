@@ -1,52 +1,79 @@
-<div align="center">
-
 # CyberHuginn
 
-### Backend Engineer • Distributed Systems • Open Source
+### Senior Backend Engineer · Software Architect · Co-Founder
 
-Building reliable backend systems, developer tools, and production-grade infrastructure.
+I design and build production-grade backend systems, distributed services,
+and software products with Python and Django.
 
-<p>
-<a href="https://cyberhuginn.com">Website</a> •
-<a href="./portfolio/resume.pdf">Resume</a> •
-<a href="https://github.com/cyberhuginn">GitHub</a> •
-<a href="mailto:contact@cyberhuginn.com">Email</a>
-</p>
-
-</div>
+My work sits at the intersection of backend engineering, system architecture,
+product development, and technical leadership.
 
 ---
 
-## About
+## What I build
 
-Backend engineer specializing in scalable backend architectures, distributed systems, and production-grade infrastructure.
-
-I primarily work with Python, Go, and TypeScript to build APIs, developer tools, monitoring platforms, and secure web applications with a focus on performance, reliability, and maintainability.
-
----
-
-## Core Technologies
-
-| | |
-|:--|:--|
-| **Languages** | Python • Go • TypeScript • JavaScript |
-| **Frameworks** | Django • Django REST Framework • Next.js • React Native |
-| **Databases** | PostgreSQL • Redis • ClickHouse • MongoDB |
-| **Infrastructure** | Docker • Linux • Nginx • Git |
-| **Expertise** | REST APIs • WebSockets • Distributed Systems • CI/CD • System Design |
+- Production backend systems and APIs
+- Distributed services and asynchronous architectures
+- Authentication and authorization infrastructure
+- Monitoring and observability platforms
+- Financial and transactional systems
+- Developer tools and open-source infrastructure
 
 ---
 
-## Open Source & Projects
+## Current Work
 
-| Project | Description |
-|:--|:--|
-| **Botza** | Telegram bot platform focused on automation, messaging, and integrations. |
-| **Bidar** | Website & API monitoring platform with uptime checks, SSL monitoring, and instant alerts. |
-| **DRF Cyber Theme** | Open-source cyberpunk-inspired theme for Django REST Framework with a clean developer experience. |
+### Fardad Noavar
+
+Co-Founder and technical leader at a software company based at
+Yazd Science and Technology Park.
+
+Working across software architecture, backend engineering,
+product development, and technical strategy.
+
+### SEPNA
+
+An independent workforce monitoring platform I'm building from
+the ground up.
+
+Architecture, backend, frontend, database, authentication,
+and deployment.
+
+---
+
+## Open Source
+
+I build and maintain Python/Django libraries and developer tools
+focused on reliability, observability, security, and backend infrastructure.
+
+---
+
+## Core Stack
+
+**Backend**
+
+Python · Django · Django REST Framework · FastAPI
+
+**Data**
+
+PostgreSQL · Redis · ClickHouse
+
+**Distributed Systems**
+
+Celery · Webhooks · Background Processing · Service Communication
+
+**Infrastructure**
+
+Docker · Linux · Nginx · Traefik · CI/CD
+
+**Frontend**
+
+TypeScript · Next.js
 
 ---
 
 ## Philosophy
 
-> **Building software that stays awake.**
+> I build systems that stay awake.
+
+[Website](https://cyberhuginn.com) · [Resume](https://cyberhuginn.com/resume)
